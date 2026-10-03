@@ -1,0 +1,13 @@
+# Временные файлы сборки .NET
+[Bb]in/
+[Oo]bj/
+
+# Файлы настроек Visual Studio и VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Файлы результатов тестов и логи
+*.log
+TestResults/
